@@ -1,0 +1,4 @@
+test_cases,expected_output,y: int,x: int
+test1,"(0,0)",52,0
+test2,"(51,0)",69,51
+test3,"(22,3)",24,94

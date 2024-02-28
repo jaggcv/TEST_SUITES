@@ -1,0 +1,4 @@
+test_cases,expected_output,a:int,b:int,c:int
+test1,95,1,11,23
+test2,186.25,20,20,3
+test3,722,34,51,50

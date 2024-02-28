@@ -1,0 +1,9 @@
+test_cases,expected_output,a: nat,b: nat,c: nat
+test1,Equilatero,94,94,94
+test2,Isosceles,56,56,84
+test3,Isosceles,63,88,63
+test4,Isosceles,82,46,46
+test5,Escaleno,30,60,56
+test6,NonTriangle,86,69,1
+test7,NonTriangle,16,90,32
+test8,NonTriangle,17,32,87

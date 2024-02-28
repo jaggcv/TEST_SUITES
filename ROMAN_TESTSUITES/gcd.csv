@@ -1,0 +1,15 @@
+test_cases,expected_output,x:int,y:int
+test1,56,56,56
+test2,82,0,82
+test3,56,56,0
+test4,1,1,99
+test5,1,14,1
+test6,1,61,19
+test7,3,3,36
+test8,13,26,13
+test9,2,2,54
+test10,1,2,31
+test11,2,92,2
+test12,1,49,2
+test13,2,54,76
+test14,3,60,27
